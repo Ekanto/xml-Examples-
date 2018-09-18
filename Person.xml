@@ -1,0 +1,49 @@
+
+
+	<Person> 
+		<SL>23</SL>
+		<Name>John_carter</Name>
+		<Admission>
+
+			<d>25</d>
+			<m>12</m>
+			<y>2015</y>
+
+
+		</Admission>
+	</Person>
+
+		
+		
+
+
+	<Person> 
+		<SL>29</SL>
+		<Name>Bob_Marshal</Name>
+		<Admission>
+
+			<d>13</d>
+			<m>01</m>
+			<y>1999</y>
+
+
+		</Admission>
+	</Person>
+
+
+	<Person> 
+		<SL>35</SL>
+		<Name>Clark_kent</Name>
+		<Admission>
+
+			<d>17</d>
+			<m>06</m>
+			<y>2005</y>
+
+
+		</Admission>
+	</Person>
+
+
+
+
