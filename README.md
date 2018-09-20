@@ -1,2 +1,2 @@
 # xml-Examples-
-This s a repository for my xml samples 
+This is a repository for my xml samples 
